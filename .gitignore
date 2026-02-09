@@ -2,7 +2,6 @@
 node_modules
 .pnp
 .pnp.js
-.env
 
 # production
 build
@@ -12,3 +11,4 @@ dist
 .DS_Store
 *.log
 *.pid
+config.bat
